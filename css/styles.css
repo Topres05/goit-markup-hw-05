@@ -707,6 +707,10 @@ body {
     margin-bottom: 8px;
 }
 
+.another-form-field-wrapper {
+    margin-bottom: 16px;
+}
+
 .review-form-field-label {
     display: block;
     font-size: 12px;
@@ -719,7 +723,6 @@ body {
 
 .review-form-input-wrapper {
     position: relative;
-    margin-bottom: 16px;
 }
 
 .review-form-input {
