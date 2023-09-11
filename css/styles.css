@@ -830,8 +830,6 @@ body {
  }
 
  .review-form-submit {
-    font-size: 16px;
-    font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     display: block;
@@ -839,8 +837,8 @@ body {
     margin-right: auto;
      min-width: 169px;
      height: 56px;
-     font-size: 14px;
-     font-weight: 600;
+     font-size: 16px;
+     font-weight: 500;
      padding-left: 16px 32px;
      color: #ffffff;
      background-color: #4D5AE5;
